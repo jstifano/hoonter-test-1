@@ -1,0 +1,34 @@
+.wrapper-input {
+    display: flex;
+}
+
+.search {
+    width: 185px;
+    border: 1px solid gray;
+    border-radius: 5px 5px;
+    height: 30px;
+    outline: none;
+    text-indent: 10px;
+}
+
+.button-search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    right: 10px;
+    width: 35px;
+    height: 32px;
+    background-color: #F2076A;
+    border-radius: 0 5px 5px 0;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+
+.icon-search {
+    width: 15px;
+    height: 15px;
+    color: white;
+    background: url('../../assets/icons/search.svg') no-repeat;
+    background-size: cover;
+}

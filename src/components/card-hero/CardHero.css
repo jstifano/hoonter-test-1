@@ -1,0 +1,10 @@
+/* Style for card wrapper */
+.card {
+    width: 32%;
+    height: auto;
+    border-radius: 2px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-right: 1%;
+    margin-bottom: 1%;
+}
